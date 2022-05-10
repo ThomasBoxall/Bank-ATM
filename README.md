@@ -1,4 +1,4 @@
-# Bank-ATM
+# Happy Bank ATM Project
 >Bank ATM project written in C for A-Level Computer Science.
 
 ## Files
